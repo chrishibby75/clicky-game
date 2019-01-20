@@ -1,10 +1,11 @@
-import React from "react";
-import Character from "./character";
+import React from 'react';
+
+import Character from './character';
 
 const CharacterBox = (props) => {
-    return (
+    return(
         <div className="character-box">
-        {props.character.map((character, index) => <Character character={character} index={index} onCharacterClick={props.onCharacterClick} key={character.name} />)}
+            {props.characters.map( (character, index) => <Character character={character} index={index} onCharacterClick={props.onCharacterClick} key={character.name} />)}
         </div>
     )
 };
