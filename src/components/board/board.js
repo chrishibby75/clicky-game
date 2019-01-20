@@ -182,7 +182,7 @@ export default class Board extends Component {
                     length={'30px'}
                     direction={'bottom'}
                     delay={'1s'}>
-                    <h4>Click on each dog just once to win!</h4>
+                    <p>Click on each dog just once to increase your score! Don't click on the same dog twice!</p>
                 </FadeIn>
                 <FadeIn 
                     in={true}
