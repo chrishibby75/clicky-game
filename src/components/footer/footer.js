@@ -1,6 +1,6 @@
 import React from 'react';
-
 import FadeIn from '../transitions/fade-in';
+import "./footer.css"
 
 const Footer = () => {
     return (
