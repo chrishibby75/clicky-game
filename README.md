@@ -10,5 +10,5 @@ This game was built using React.js.  I created a React client-side boiler plate 
 
 ![GitHub Logo](/public/img/example.JPG)
 
-Click [here]() to play the game.
+Click [here](https://clicky-game0706.herokuapp.com/) to play the game.
 
