@@ -8,7 +8,7 @@ This game was built using React.js.  I created a React client-side boiler plate 
 
 ## Game Example
 
-(clicky-game/public/img/example.JPG)
+![Screen Shot](clicky-game/public/img/example.JPG)
 
 Click [here]() to play the game.
 
